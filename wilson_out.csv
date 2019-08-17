@@ -35,7 +35,6 @@
 0.9688,Minimum Swaps to Group All 1's Together
 0.9688,Kill Process
 0.9688,Daily Temperatures
-0.9688,Daily Temperatures
 0.9686,Shortest Subarray with Sum at Least K
 0.9682,Partition Equal Subset Sum
 0.968,Delete Operation for Two Strings
@@ -100,7 +99,6 @@
 0.952,N-Queens
 0.9518,Best Time to Buy and Sell Stock
 0.9517,Best Time to Buy and Sell Stock III
-0.9516,Target Sum
 0.9516,Target Sum
 0.9514,Valid Parentheses
 0.9514,Shortest Unsorted Continuous Subarray
@@ -332,7 +330,6 @@
 0.9071,Shortest Distance to a Character
 0.907,Sort Characters By Frequency
 0.907,Find All Numbers Disappeared in an Array
-0.907,Find All Numbers Disappeared in an Array
 0.9065,Paint House
 0.9063,Longest Substring with At Least K Repeating Characters
 0.9054,Jump Game
@@ -396,7 +393,6 @@
 0.8895,Longest Palindrome
 0.8893,Triangle
 0.8893,Remove All Adjacent Duplicates In String
-0.8893,Combination Sum IV
 0.8893,Combination Sum IV
 0.8885,Koko Eating Bananas
 0.8883,Squares of a Sorted Array
@@ -569,7 +565,6 @@
 0.8198,Map Sum Pairs
 0.8195,Partition Array Into Three Parts With Equal Sum
 0.8191,Maximum Width of Binary Tree
-0.8191,Maximum Width of Binary Tree
 0.8187,Design Circular Queue
 0.8177,Most Frequent Subtree Sum
 0.8172,Maximum XOR of Two Numbers in an Array
@@ -595,7 +590,6 @@
 0.8083,Non-decreasing Array
 0.8079,Perfect Rectangle
 0.8076,One Edit Distance
-0.8075,Decoded String at Index
 0.8075,Decoded String at Index
 0.8049,Is Subsequence
 0.8041,N-th Tribonacci Number
@@ -1011,7 +1005,6 @@
 0.3126,Remove Element
 0.3123,Rectangle Area
 0.3123,Longest Absolute File Path
-0.3123,Longest Absolute File Path
 0.3119,Fraction Addition and Subtraction
 0.3117,Remove Duplicates from Sorted Array
 0.3117,Confusing Number
@@ -1135,7 +1128,6 @@
 0.1672,Masking Personal Information
 0.1661,Divide Two Integers
 0.1656,Reported Posts
-0.1656,Reported Posts
 0.1596,UTF-8 Validation
 0.1593,Groups of Special-Equivalent Strings
 0.158,Guess Number Higher or Lower
@@ -1148,7 +1140,6 @@
 0.1416,Circular Array Loop
 0.1401,Missing Ranges
 0.1394,Statistics from a Large Sample
-0.1368,Smallest Range I
 0.1368,Smallest Range I
 0.1337,Validate IP Address
 0.1337,String to Integer (atoi)
